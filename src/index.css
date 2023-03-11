@@ -1,0 +1,11 @@
+.CheckStep .ansibg-y-br {
+  background-color: palegreen !important;
+  color: black !important;
+  padding: 0.1rem 0.5rem !important;
+}
+
+.CheckStep .ansibg-w-br {
+  background-color: palevioletred !important;
+  color: white !important;
+  padding: 0.1rem 0.5rem !important;
+}
